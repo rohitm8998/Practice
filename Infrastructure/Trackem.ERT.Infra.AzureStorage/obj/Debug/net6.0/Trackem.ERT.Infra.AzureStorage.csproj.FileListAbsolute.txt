@@ -1,0 +1,12 @@
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\bin\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\bin\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\bin\Debug\net6.0\ref\Trackem.ERT.Infra.AzureStorage.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\bin\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.csproj.AssemblyReference.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\ref\Trackem.ERT.Infra.AzureStorage.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.AzureStorage\obj\Debug\net6.0\Trackem.ERT.Infra.AzureStorage.pdb

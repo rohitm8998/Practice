@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<DocumentationFile>Trackem.ERT.Core.DataModels.xml</DocumentationFile>
+		<OutputPath></OutputPath>
+		<NoWarn>1701;1702;1591</NoWarn>
+	</PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Azure.Identity" Version="1.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Azure.Services.AppAuthentication" Version="1.6.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Trackem.ERT.Core.DataModels\Trackem.ERT.Core.DataModels.csproj" />
+    <ProjectReference Include="..\..\Core\Trackem.ERT.Core.Entities\Trackem.ERT.Core.Entities.csproj" />
+    <ProjectReference Include="..\..\Core\Trackem.ERT.Core.ServiceContracts\Trackem.ERT.Core.ServiceContracts.csproj" />
+    <ProjectReference Include="..\..\Core\Trackem.ERT.Core.Services\Trackem.ERT.Core.Services.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Trackem.ERT.Infra.Contracts\Trackem.ERT.Infra.Contracts.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Trackem.ERT.Infra.Repositories\Trackem.ERT.Infra.Repositories.csproj" />
+    <ProjectReference Include="..\Trackem.ERT.Api.Filters\Trackem.ERT.Api.Filters.csproj" />
+  </ItemGroup>
+
+</Project>

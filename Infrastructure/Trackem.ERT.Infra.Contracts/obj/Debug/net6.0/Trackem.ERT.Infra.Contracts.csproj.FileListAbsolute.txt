@@ -1,0 +1,17 @@
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.Contracts.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.Contracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\ref\Trackem.ERT.Infra.Contracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.Contracts.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.Common.Entities.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.EFCore.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.Common.Entities.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\bin\Debug\net6.0\Trackem.ERT.Infra.EFCore.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.csproj.AssemblyReference.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.csproj.CopyComplete
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\ref\Trackem.ERT.Infra.Contracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.Contracts\obj\Debug\net6.0\Trackem.ERT.Infra.Contracts.pdb

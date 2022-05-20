@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Contracts\\Trackem.ERT.Infra.Contracts.csproj": {}
+  },
+  "projects": {
+    "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Common.Entities\\Trackem.ERT.Infra.Common.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Common.Entities\\Trackem.ERT.Infra.Common.Entities.csproj",
+        "projectName": "Trackem.ERT.Infra.Common.Entities",
+        "projectPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Common.Entities\\Trackem.ERT.Infra.Common.Entities.csproj",
+        "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
+        "outputPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Common.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Contracts\\Trackem.ERT.Infra.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Contracts\\Trackem.ERT.Infra.Contracts.csproj",
+        "projectName": "Trackem.ERT.Infra.Contracts",
+        "projectPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Contracts\\Trackem.ERT.Infra.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
+        "outputPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Common.Entities\\Trackem.ERT.Infra.Common.Entities.csproj": {
+                "projectPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.Common.Entities\\Trackem.ERT.Infra.Common.Entities.csproj"
+              },
+              "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.EFCore\\Trackem.ERT.Infra.EFCore.csproj": {
+                "projectPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.EFCore\\Trackem.ERT.Infra.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.EFCore\\Trackem.ERT.Infra.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.EFCore\\Trackem.ERT.Infra.EFCore.csproj",
+        "projectName": "Trackem.ERT.Infra.EFCore",
+        "projectPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.EFCore\\Trackem.ERT.Infra.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
+        "outputPath": "H:\\2022\\ERT\\ERT\\Practice\\Infrastructure\\Trackem.ERT.Infra.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

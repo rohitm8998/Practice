@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6E3wxTZXOie3DrSu5r8/HrSDKgQOVmfcep1CvsBTVol8SFnat4HMZT5bGR4GbDUESpKl7P3mKh0uwf0uHbQLQ==",
+  "success": true,
+  "projectFilePath": "H:\\2022\\ERT\\ERT\\Practice\\Core\\Trackem.ERT.Core.ServiceContracts\\Trackem.ERT.Core.ServiceContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

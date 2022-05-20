@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Trackem.ERT.Web.Apis</name>
+    </assembly>
+    <members>
+        <member name="M:Trackem.ERT.Web.Apis.Controllers.MaterialController.#ctor(Trackem.ERT.Core.ServiceContracts.IServiceManager,Microsoft.Extensions.Logging.ILogger{Trackem.ERT.Web.Apis.Controllers.MaterialController},Microsoft.AspNetCore.Http.IHttpContextAccessor)">
+            <summary>
+            Material Controller
+            </summary>
+            <param name="service">IServiceManager</param>
+            <param name="logger">ILogger</param>
+            <param name="httpContextAccessor">IHttpContextAccessor</param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Controllers.MaterialController.Get(Trackem.ERT.Infra.Common.Entities.RequestParameters.MaterialParameter)">
+            <summary>
+            This is for Materia Search V1 Search inlcude Schduled and Company Id
+            </summary>
+            <param name="parameter">MaterialParameter </param>
+            <returns>LinkResponse</returns>
+        </member>
+        <member name="T:Trackem.ERT.Web.Apis.Controllers.MaterialV2Controller">
+            <summary>
+            Material Controller V2
+            </summary>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Controllers.MaterialV2Controller.Get(Trackem.ERT.Infra.Common.Entities.RequestParameters.MaterialParameter)">
+            <summary>
+            Materia Search V2
+            </summary>
+            <param name="parameter">Material Parameter</param>
+            <returns>Result</returns>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Extensions.ServiceExtensions.ConfigureCors(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure CORS
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Extensions.ServiceExtensions.ConfigureSqlContext(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            SQL Connection
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Extensions.ServiceExtensions.ConfigureRepositoryManager(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            ConfigureRepositoryManager
+            </summary>
+            <param name="services">IServiceCollection</param>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Extensions.ServiceExtensions.ConfigureServiceManager(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            ConfigureServiceManager
+            </summary>
+            <param name="services">IServiceCollection</param>
+        </member>
+        <member name="M:Trackem.ERT.Web.Apis.Extensions.ServiceExtensions.AddCustomMediaTypes(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            AddCustomMediaTypes
+            </summary>
+            <param name="services">IServiceCollection</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Trackem.ERT.Web.Apis.Extensions.ServiceExtensions.ConfigureVersioning(Microsoft.Extensions.DependencyInjection.IServiceCollection)" -->
+    </members>
+</doc>

@@ -1,0 +1,94 @@
+Create DBSet Class : Material
+In RepositoryContext =>  public DbSet<Material> Material { get; set; }
+
+In Trackem.ERT.Infra.Common.Entities.RequestParameters Create a Class MaterialParameter
+public class MaterialParameter : BaseRequestParameters
+{
+    #region Data Shaping
+    public string? Fields { get; set; }
+    #endregion
+}
+in Trackem.ERT.Infra.Common.Entities.LinkModels;
+
+public record LinkParameters(ClaimParameter ClaimParameter, HttpContext Context);
+public record MatParameters(MaterialParameter ClaimParameter, HttpContext Context);
+
+
+In Trackem.ERT.Infra.Contracts; Create Interface IMaterialRepository.cs
+public interface IMaterialRepository
+    {
+        Task<PagedList<Material>> GetMaterialsAsync(bool trackChanges, MaterialParameter materialParameter);
+        Task<Material> GetMaterialAsync(long id, bool trackChanges);
+    }
+
+In Trackem.ERT.Infra.Repositories.Repository create class MaterialRepository.cs
+  public class MaterialRepository : RepositoryBase<Material>, IMaterialRepository
+    {
+        public MaterialRepository(RepositoryContext repositoryContext) : base(repositoryContext) { }
+
+        public async Task<Material> GetMaterialAsync(long id, bool trackChanges) => await FindByCondition(e => e.SystemId.Equals(id), trackChanges).SingleOrDefaultAsync();
+
+        public async Task<PagedList<Material>> GetMaterialsAsync(bool trackChanges, MaterialParameter materialParameter)
+        {
+            try
+            {
+                var data = FindAll(trackChanges)
+                   .Skip((materialParameter.PageNumber - 1) * materialParameter.PageSize)
+                   .Take(materialParameter.PageSize)
+                   .AsQueryable();
+
+                var result = data.ToList();
+
+                var count = await FindAll(trackChanges)
+                    .CountAsync();
+
+                PagedList<Material> materials = new PagedList<Material>(result, count, materialParameter.PageNumber, materialParameter.PageSize);
+                return materials; // Performance Better but can switch to above one too
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+    }
+In Trackem.ERT.Infra.Contracts interface IRepositoryManager.cs
+ IMaterialRepository Material { get; }
+
+In Trackem.ERT.Infra.Repositories class RepositoryManager.cs
+ private Lazy<IMaterialRepository> _materialRepository;
+ public RepositoryManager(RepositoryContext repositoryContext)
+    {
+     
+        _materialRepository = new Lazy<IMaterialRepository>(() => new MaterialRepository(repositoryContext));
+    }
+ public IMaterialRepository Material => _materialRepository.Value;
+
+
+In Trackem.ERT.Core.DataModels, Create View Model, or response model
+
+In Trackem.ERT.Core.ServiceContracts create a Interface IMaterialLink
+In Trackem.ERT.Web.Apis; create a class MaterialLink.cs
+
+In Trackem.ERT.Core.ServiceContracts; Create a Interface IMaterialService.cs
+
+In Trackem.ERT.Core.ServiceContracts; in interface IServiceManager.cs
+  IMaterialService MaterialService { get; }
+
+In Trackem.ERT.Core.Services; in class ServiceManager.cs
+
+    private readonly Lazy<IMaterialService> _materialService;
+    //private readonly IMapper _mapper;
+
+    public ServiceManager(IRepositoryManager repositoryManager, IMapper mapper, IClaimLink claimLink, IMaterialLink materialLink)
+    {
+
+        _materialService = new Lazy<IMaterialService>(() => new MaterialService(repositoryManager, mapper, materialLink));
+    }
+
+    public IMaterialService MaterialService => _materialService.Value;
+
+In Program.cs
+
+builder.Services.AddScoped<IMaterialLink, MaterialLink>(); // Hateoss
+
+builder.Services.AddScoped<IDataShaper<MaterialGridDetailResponse>, DataShaper<MaterialGridDetailResponse>>();

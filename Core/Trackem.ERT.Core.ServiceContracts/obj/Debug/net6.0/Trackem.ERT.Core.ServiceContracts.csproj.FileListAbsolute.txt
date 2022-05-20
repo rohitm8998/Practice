@@ -1,0 +1,17 @@
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\ref\Trackem.ERT.Core.ServiceContracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Core.DataModels.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Infra.Common.Entities.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Infra.Common.Entities.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\bin\Debug\net6.0\Trackem.ERT.Core.DataModels.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.csproj.AssemblyReference.cache
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.csproj.CopyComplete
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\ref\Trackem.ERT.Core.ServiceContracts.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.ServiceContracts\obj\Debug\net6.0\Trackem.ERT.Core.ServiceContracts.pdb

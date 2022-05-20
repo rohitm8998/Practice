@@ -1,0 +1,12 @@
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\bin\Debug\net6.0\Trackem.ERT.Api.Filters.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\bin\Debug\net6.0\Trackem.ERT.Api.Filters.dll
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\bin\Debug\net6.0\ref\Trackem.ERT.Api.Filters.dll
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\bin\Debug\net6.0\Trackem.ERT.Api.Filters.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.csproj.AssemblyReference.cache
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.dll
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\ref\Trackem.ERT.Api.Filters.dll
+H:\2022\ERT\ERT\Trackem.ERT\Api\Trackem.ERT.Api.Filters\obj\Debug\net6.0\Trackem.ERT.Api.Filters.pdb

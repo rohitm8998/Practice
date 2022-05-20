@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JdARcj7d6xHw2Splwv5tWuw1FUoAaaxc7ZEurhXgMwI=",
+  "Source": "Trackem.ERT.Web.Apis",
+  "BasePath": "_content/Trackem.ERT.Web.Apis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

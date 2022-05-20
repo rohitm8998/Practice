@@ -1,0 +1,11 @@
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\bin\Debug\net6.0\Trackem.ERT.Core.Entities.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\bin\Debug\net6.0\Trackem.ERT.Core.Entities.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\bin\Debug\net6.0\ref\Trackem.ERT.Core.Entities.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\bin\Debug\net6.0\Trackem.ERT.Core.Entities.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\Trackem.ERT.Core.Entities.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\Trackem.ERT.Core.Entities.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\Trackem.ERT.Core.Entities.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\Trackem.ERT.Core.Entities.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\Trackem.ERT.Core.Entities.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\ref\Trackem.ERT.Core.Entities.dll
+H:\2022\ERT\ERT\Trackem.ERT\Core\Trackem.ERT.Core.Entities\obj\Debug\net6.0\Trackem.ERT.Core.Entities.pdb

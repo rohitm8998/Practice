@@ -1,0 +1,12 @@
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\bin\Debug\net6.0\Trackem.ERT.Infra.EFCore.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\bin\Debug\net6.0\Trackem.ERT.Infra.EFCore.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\bin\Debug\net6.0\ref\Trackem.ERT.Infra.EFCore.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\bin\Debug\net6.0\Trackem.ERT.Infra.EFCore.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.csproj.AssemblyReference.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\ref\Trackem.ERT.Infra.EFCore.dll
+H:\2022\ERT\ERT\Trackem.ERT\Infrastructure\Trackem.ERT.Infra.EFCore\obj\Debug\net6.0\Trackem.ERT.Infra.EFCore.pdb

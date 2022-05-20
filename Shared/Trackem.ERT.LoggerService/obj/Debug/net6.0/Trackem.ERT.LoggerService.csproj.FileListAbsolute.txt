@@ -1,0 +1,12 @@
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\bin\Debug\net6.0\Trackem.ERT.LoggerService.deps.json
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\bin\Debug\net6.0\Trackem.ERT.LoggerService.dll
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\bin\Debug\net6.0\ref\Trackem.ERT.LoggerService.dll
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\bin\Debug\net6.0\Trackem.ERT.LoggerService.pdb
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.csproj.AssemblyReference.cache
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.AssemblyInfoInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.AssemblyInfo.cs
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.csproj.CoreCompileInputs.cache
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.dll
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\ref\Trackem.ERT.LoggerService.dll
+H:\2022\ERT\ERT\Trackem.ERT\Shared\Trackem.ERT.LoggerService\obj\Debug\net6.0\Trackem.ERT.LoggerService.pdb
