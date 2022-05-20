@@ -1,0 +1,59 @@
+name: $(Build.DefinitionName)-$(Date:yyyy.M.d)$(Rev:.r)
+# ASP.NET Core (.NET Framework)
+# Build and test ASP.NET Core projects targeting the full .NET Framework.
+# Add steps that publish symbols, save build artifacts, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
+
+trigger: none
+
+pr: none
+
+pool:
+  vmImage: ubuntu-latest
+
+stages:
+
+- stage: Build_and_Test_Practice_WebApi
+  displayName: Build and Test Practice.WebApi
+  dependsOn: []
+
+  variables:
+    buildPlatform: Any CPU
+    buildConfiguration: Release
+    projectPath: Api/Practice.Web.Apis
+    projects: |
+      Api/**//*.csproj
+    testProjects: |
+      Test/Trackem.ERT.Test.Service/*.csproj
+  
+  jobs:
+
+  - job: Build_and_Test
+    displayName: Build and Test
+    dependsOn: []
+
+    steps:
+
+    - task: NuGetAuthenticate@0
+      displayName: NuGet Authenticate
+
+    - task: DotNetCoreCLI@2
+      displayName: Build
+      inputs:
+        command: build
+        projects: $(projects)
+        arguments: --configuration $(buildConfiguration)
+
+    - task: DotNetCoreCLI@2
+      displayName: Run Tests
+      inputs:
+        command: test
+        projects: $(testProjects)
+        arguments: '--configuration $(buildConfiguration) --collect:"XPlat Code Coverage" /p:CoverletOutputFormat=cobertura /p:CoverletOutput=$(Build.SourcesDirectory)/TestResults/Coverage/ /p:CollectCoverage=true'
+
+    - task: PublishCodeCoverageResults@1
+      displayName: Publish code coverage report
+      inputs:
+        codeCoverageTool: Cobertura
+        summaryFileLocation: $(Build.SourcesDirectory)/**/coverage.cobertura.xml
+
